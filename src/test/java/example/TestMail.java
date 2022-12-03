@@ -1,7 +1,7 @@
-import org.junit.Before;
+package example;
+
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.BeforeEach;
 import task2.*;
 import task2.Gender;
 
